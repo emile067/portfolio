@@ -1,9 +1,9 @@
 body{
-    background-color: darkolivegreen;
+    background-color: rgb(29, 37, 14);
     padding: 10px;
 }
 .profile{
-    height: 300px;
+    height: 600px;
     text-align: center;
     margin: auto;
     width: 50%;
@@ -30,6 +30,13 @@ body{
     padding: 10px;
     text-align: center;
 }
-.aboutme ul{
+.aboutme ul,ol{
     text-align: left;
+}
+.aboutme ol{
+    font-size: larger;
+}
+.name{
+    font-size: larger;
+    font-style: italic;
 }
