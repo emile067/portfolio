@@ -1,6 +1,7 @@
 body{
     background-color: rgb(29, 37, 14);
     padding: 10px;
+    color: wheat;
 }
 .profile{
     height: 600px;
@@ -8,13 +9,15 @@ body{
     margin: auto;
     width: 50%;
     padding: 10px;
-    background-color: white;
+    
 }
 .project1{
     height: 400px;
-    background-color: white;
     padding: 10px;
     text-align: center;
+}
+.project1 img{
+    float: left;
 }
 .aboutme{
     height: 100%;
@@ -22,11 +25,11 @@ body{
     margin: auto;
     width: 50%;
     padding: 10px;
-    background-color: white;
+    
 }
 .project2{
     height: 400px;
-    background-color: white;
+    
     padding: 10px;
     text-align: center;
 }
