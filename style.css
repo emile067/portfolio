@@ -44,3 +44,9 @@ body{
 .link{
     font-size: x-large;
 }
+.body{
+    width: 85%;
+    border: 15px ;
+    padding: 50px;
+    margin: 20px;
+}
