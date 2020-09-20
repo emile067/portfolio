@@ -3,7 +3,7 @@ body{
     padding: 10px;
     color: wheat;
 }
-.profile{
+#profile{
     height: 600px;
     text-align: center;
     margin: auto;
@@ -11,13 +11,13 @@ body{
     padding: 10px;
     
 }
-.project1{
+#project1{
     height: 400px;
     padding: 10px;
     text-align: center;
 }
 
-.aboutme{
+#aboutme{
     height: 100%;
     text-align: center;
     margin: auto;
@@ -25,16 +25,16 @@ body{
     padding: 10px;
     
 }
-.project2{
+#project2{
     height: 400px;
     
     padding: 10px;
     text-align: center;
 }
-.aboutme ul,ol{
+#aboutme ul,ol{
     text-align: left;
 }
-.aboutme ol{
+#aboutme ol{
     font-size: larger;
 }
 .name{
@@ -49,4 +49,16 @@ body{
     border: 15px ;
     padding: 50px;
     margin: 20px;
+    float: left;
+}
+#nav{
+    height: 100%;
+    position: fixed;
+    color: wheat;
+    font-size: x-large;
+}
+#nav a{
+    display: block;
+    padding:15px;
+    margin:20px
 }

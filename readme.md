@@ -3,8 +3,6 @@
 #### By **Kamana Izere Emile**
 ## Description
 This project displays Kamana Emile's portfolio as on 20/9/2020. It displays some projects, I worked on and some info about me.
-## Site
-[link to the portfolio]: (https://emile067.github.io/portfolio/)
 ## Setup/Installation Requirements
 * Having visual studio installed
 * Basic knowledge of html and css
