@@ -1,0 +1,32 @@
+body{
+    background-color: darkolivegreen;
+    padding: 10px;
+}
+.profile{
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: white;
+}
+.project1{
+    height: 400px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+.aboutme{
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: white;
+}
+.project2{
+    height: 400px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
